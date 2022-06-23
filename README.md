@@ -1,4 +1,5 @@
 # Wordle Clone
+![wordle game](./img/wordle_game.PNG)
 This repo contains a simple HTML page with a clone from the [New York Times wordle game](https://www.nytimes.com/games/wordle/index.html).
 
 # How to run
